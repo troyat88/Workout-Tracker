@@ -18,10 +18,10 @@ const workoutSchema = new Schema({
         weight: {
             type: Number
         },
-        sets: {
+        reps: {
             type: Number
         },
-        reps: {
+        sets: {
             type: Number
         },
         duration: {
